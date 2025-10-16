@@ -11,9 +11,9 @@ Love automating boring stuff, optimizing performance, and keeping clean repos �
 
 - 🔭 Currently exploring: ERPNext v15 customizations, POS frontends, GitHub Actions
 - ⚙️ Stack: Vue 3, Node.js, Python, Frappe/ERPNext, MySQL, Docker
-- 💬 Ask me about: Offline-first POS, integrations, manufacturing flows
-- 📫 Reach me: _(add your email or socials here)_
-- 🌐 Website/Portfolio: _(optional link)_
+- 💬 Ask me about: Offline-first POS, Integrations, Manufacturing Flows, Custom Scripts.
+- 📫 Reach me: https://www.facebook.com/am1024.786 | https://www.instagram.com/am1024.786/ | Gmail : robin001100110@gmail.com
+- 🌐 Website/Portfolio: https://farooqchemical.com/
 
 ---
 
