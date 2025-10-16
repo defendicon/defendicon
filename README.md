@@ -43,9 +43,8 @@ Love automating boring stuff, optimizing performance, and keeping clean repos �
 ---
 
 ## 🔗 Quick Links
-- 🔥 Featured Project: _(add repo link)_
-- 📝 Latest Issue/PRs: _(add links)_
-- 📦 Public Repos: [github.com/defendicon?tab=repositories](https://github.com/defendicon?tab=repositories)
+- 🔥 Featured Project: _(https://github.com/defendicon/POS-Awesome-V15)_
+
 
 <!-- Tips:
 1) Private contributions ko green dikhane ke liye: GitHub Settings → Profile → "Include private contributions".
